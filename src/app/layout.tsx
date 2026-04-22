@@ -8,10 +8,10 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "QR Kod Oluşturucu — Anında QR Kod Üretin",
+  title: "QR Kod Oluşturucu — Özelleştir ve İndir",
   description:
-    "Metin veya URL girerek anında yüksek kaliteli QR kod oluşturun. PNG olarak indirin, ücretsiz ve hızlı.",
-  keywords: ["qr kod", "qr code generator", "qr oluşturucu", "qr kod indir"],
+    "Metin veya URL girerek anında özelleştirilebilir QR kod oluşturun. Renk, logo, köşe yuvarlatması ve daha fazlasını ayarlayın. Yüksek kaliteli PNG olarak indirin.",
+  keywords: ["qr kod", "qr code generator", "qr oluşturucu", "qr kod indir", "qr özelleştir"],
 };
 
 export default function RootLayout({
